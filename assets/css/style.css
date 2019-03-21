@@ -13,7 +13,7 @@ body {
 }
 
 #navbar {
-  margin-right: 500px;
+  margin-right: 410px;
 }
 
 #navbar ul {  
@@ -25,14 +25,14 @@ body {
 #navbar ul li {
   list-style-type: none;
   display: inline;
-  margin: 10px;
+  margin: 5px;
   
 }
 
 #navbar ul li a {
   text-decoration: none;
   color: #777777;
-  margin: 10px;
+  margin: 15px;
 }
 
 .aboutme {
@@ -100,6 +100,5 @@ footer {
 }
 
 #navbar ul li a:hover {
-  padding: 10px;
   color: #ffffff;
 }
