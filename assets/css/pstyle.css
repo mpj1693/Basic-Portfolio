@@ -1,0 +1,9 @@
+.pimages:hover {
+  opacity: 0.5;
+}
+
+.pimages {
+  width: 150px;
+  height: 150px;
+  margin: 50px;
+}

@@ -1,0 +1,105 @@
+body {
+  
+}
+
+#header {
+  background: #4aaaa5;
+  width: 250px;
+  text-align: center;
+  color: #ffffff;
+  padding: 5px;
+  float: left;
+  margin-left: 455px;
+}
+
+#navbar {
+  margin-right: 500px;
+}
+
+#navbar ul {  
+  float: right;
+  margin-top: 50px;
+  margin-right: 40px;
+}
+
+#navbar ul li {
+  list-style-type: none;
+  display: inline;
+  margin: 10px;
+  
+}
+
+#navbar ul li a {
+  text-decoration: none;
+  color: #777777;
+  margin: 10px;
+}
+
+.aboutme {
+  clear: both;
+  background: #dddddd;
+  border-top: #777777 solid 2px;
+  border-bottom: #dddddd solid 2px;
+  clear: both;
+}
+
+section {
+  width: 960px;
+  margin: auto;
+  background: #ffffff;
+  border: #777777 solid 1px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding-left: 35px;
+  clear: both;
+}
+
+h2 {
+  color: #4aaaa5;
+  font-size: 200%;
+}
+
+.imagepara {
+  border-top: #777777 solid 1px;
+  width: 930px;
+ 
+}
+
+#niccage {
+  margin-top: 30px;
+  float: left;
+  margin-right: 20px;
+}
+
+.para {
+  color: #777777;
+  line-height: 1.8em;
+  margin-top: 22px;
+  font-size: 1.2em;
+}
+
+footer {
+    background-color: #777777;
+    height: 40px;
+    clear: both;
+    color: #dddddd;;
+    text-align: center;
+    padding: 15px;
+    font-size: 90%;
+    border-top: #4aaaa5 15px solid;
+}
+
+.current {
+  border: #4aaaa5 2px solid;
+  padding: 10px;
+}
+
+#navbar ul li:hover {
+  background: #4aaaa5;
+  padding: 10px;
+}
+
+#navbar ul li a:hover {
+  padding: 10px;
+  color: #ffffff;
+}
